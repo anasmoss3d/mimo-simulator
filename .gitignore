@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.DS_Store
+Thumbs.db
+
+# local-only, unrelated files
+DiscoveryLamp/
+make_sheet.py
+opencode.json
